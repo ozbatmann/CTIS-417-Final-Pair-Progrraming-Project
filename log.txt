@@ -1,0 +1,4 @@
+Water Sprinkler on
+Water Sprinkler off
+Alarm on
+Alarm off
